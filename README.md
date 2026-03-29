@@ -7,12 +7,12 @@ Each lab is documented with screenshots and configurations as I work through the
 
 ## 📚 Lab Progress
 
-### 🧪 Lab 01
+### 🧪 Lab 01: Network Devices
 ![Lab 01 Screenshot](Lab-01.png)
 
 ---
 
-### 🧪 Lab 02
+### 🧪 Lab 02: Interfaces and Cables
 ![Lab 02 Screenshot](Lab-02.png)
 
 ---
