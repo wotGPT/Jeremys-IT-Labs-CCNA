@@ -8,12 +8,12 @@ Each lab is documented with screenshots and configurations as I work through the
 ## 📚 Lab Progress
 
 ### 🧪 Lab 01
-![Lab 01 Screenshot](images/Lab-01.png)
+![Lab 01 Screenshot](Lab-01.png)
 
 ---
 
 ### 🧪 Lab 02
-![Lab 02 Screenshot](images/Lab-02.png)
+![Lab 02 Screenshot](Lab-02.png)
 
 ---
 
