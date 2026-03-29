@@ -16,12 +16,3 @@ Each lab is documented with screenshots and configurations as I work through the
 ![Lab 02 Screenshot](Lab-02.png)
 
 ---
-
-## 🚀 Upcoming Labs
-
-- Lab-03
-- Lab-04
-- Lab-05
-- ...
-
----
